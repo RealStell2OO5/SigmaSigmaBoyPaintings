@@ -1,7 +1,7 @@
 {
     "name": "CustomPaintings",
     "version_number": "1.1.8",
-	"website_url": "https://github.com/LittleHund/CustomPaintingsMod",
+	"website_url": "https://github.com/RealStell2OO5/SigmaSigmaBoyPaintings",
     "description": "this mod randomizes all paintings and replaces them with your own custom ones",
     "dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
